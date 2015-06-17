@@ -8,7 +8,7 @@
 				<a href="{{ post.src }}" data-lightbox="{{ post.url | replace: '/', '' }}" data-title="{{ post.description }} {{ post.credit }}"><img class="img-responsive img-circle center-block" data-src="{{ post.src }}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" onload="lzld(this)" /></a>
 			</div><!-- row -->
 			<div class="col-md-8 col-md-offset-2">
-				<p>{{ post.description }}</p>
+				{{ post.content }}
 				{% include elements/share-link.html %}
 			</div><!-- col-md-8 col-md-offset-2 -->
 		</div><!-- container -->

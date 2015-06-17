@@ -1,0 +1,11 @@
+---
+piece: article
+chapter: dunkirk-harbor
+published: true
+title: Natural History Interest
+description: 
+credit: 
+---
+Dunkirk Harbor is primarily known as a birding destination. In winter and when it is in operation, warm effluent from the coal-fired electric power plant keeps Dunkirk Harbor free of ice. This serves as an attractant to diving ducks when the rest of Lake Erie freezes.
+
+Large groups of waterfowl invariably attract oddities and rarities, and this includes gulls, shorebirds, and raptors as well. Migration on Lake Erie, including birds, butterflies, and dragonflies, can be recorded from Dunkirk Harbor in the spring as well as the late summer and fall season.
