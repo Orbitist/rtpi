@@ -21,7 +21,7 @@
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 						<h4 class="modal-title" id="myModalLabel">{{ post.title }}</h4>
 					</div>
-					<iframe height="300px" data-src="{{ post.src }}" src="about:blank" onload="lzld(this)" frameborder="0" allowfullscreen></iframe>
+					<iframe data-src="{{ post.src }}" src="about:blank" onload="lzld(this)" frameborder="0" allowfullscreen></iframe>
 					<div class="share-link"><span class="fa fa-link"></span> Share link: {{ site.baseurl }}/#{{ post.url | replace: '/', '' }}</div>
 				</div>
 			</div>

@@ -1,0 +1,9 @@
+---
+piece: article
+chapter: dunkirk-harbor
+published: true
+title: Why It’s Important To Conservation
+description: 
+credit: 
+---
+Dunkirk Harbor’s main importance stems from the fact it is situated on Lake Erie, and while the harbor and associated human development are not of particular conservation importance they help to allow us to study the life that utilizes one of the largest and most vital lakes on the planet. Millions of birds use Lake Erie every year and as many species come under pressure it is important for conservationists to study their populations and monitor fluctuations in numbers, behavior, feeding and more by recording them at locations such as Dunkirk Harbor.
