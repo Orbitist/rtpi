@@ -1,0 +1,48 @@
+permalink: :year-:month-:day-:title 
+
+highlighter: pygments
+markdown: kramdown
+
+title : UGRR Orbitist
+tagline: Anti-slavery activists of the 1800s
+author : 
+  name : Orbitist Support
+  email : support@orbitist.com
+  github : Orbitist
+  twitter : TheOrbitist
+  web : http://www.orbitist.com
+
+production_url : orbitist.com/ugrr
+
+baseurl : http://orbitist.com/ugrr
+        
+analytics :
+  google : 
+    tracking_id : ''
+
+
+authors:
+  ngunner:
+    name: Nicholas Gunner
+    display_name: Nicholas Gunner
+    bio: Founder of Orbitist. New Media Manager at SUNY Fredonia. Multimedia Storyteller.
+    image: http://orbitist.s3.amazonaws.com/_toplevel/images/profile-images/ngunner.jpg
+    email: gunnernr@gmail.com
+    web: http://www.nicholasgunner.com
+    twitter: nicholas_gunner
+    github: ngunner
+  dshepard:
+    name: Douglas H. Shepard
+    display_name: Doug Shepard
+    bio: UGRR Researcher based in Fredonia, NY
+    image: http://www.fredonia.edu/department/english/images/dougshepard.jpg
+    email: wshepard@netsync.net
+  wstraight:
+    name: Wendy Straight
+    display_name: Wendy Straight
+    bio: UGRR Researcher based in Fredonia, NY
+    image: https://www.fig.net/pub/tf/unrep/200003/Image116.gif
+    email: wendy@netsync.net
+
+  
+timezone : America/New_York
