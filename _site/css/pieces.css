@@ -206,7 +206,7 @@ width: 90%;
 
 .piece-map iframe {
 width: 100%;
-height: 650px;
+height: 550px;
 }
 
 @media (max-width: 768px) {

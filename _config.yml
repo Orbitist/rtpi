@@ -3,8 +3,8 @@ permalink: :year-:month-:day-:title
 highlighter: pygments
 markdown: kramdown
 
-title : UGRR Orbitist
-tagline: Anti-slavery activists of the 1800s
+title : RTPI Chautauqua County Natural History Atlas
+tagline: 
 author : 
   name : Orbitist Support
   email : support@orbitist.com
@@ -12,9 +12,9 @@ author :
   twitter : TheOrbitist
   web : http://www.orbitist.com
 
-production_url : orbitist.com/ugrr
+production_url : orbitist.com/rtpi
 
-baseurl : http://orbitist.com/ugrr
+baseurl : http://orbitist.com/rtpi
         
 analytics :
   google : 
@@ -31,18 +31,6 @@ authors:
     web: http://www.nicholasgunner.com
     twitter: nicholas_gunner
     github: ngunner
-  dshepard:
-    name: Douglas H. Shepard
-    display_name: Doug Shepard
-    bio: UGRR Researcher based in Fredonia, NY
-    image: http://www.fredonia.edu/department/english/images/dougshepard.jpg
-    email: wshepard@netsync.net
-  wstraight:
-    name: Wendy Straight
-    display_name: Wendy Straight
-    bio: UGRR Researcher based in Fredonia, NY
-    image: https://www.fig.net/pub/tf/unrep/200003/Image116.gif
-    email: wendy@netsync.net
 
   
 timezone : America/New_York
