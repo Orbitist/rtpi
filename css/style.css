@@ -1,0 +1,12 @@
+/* Top level styles */
+@import url("top_level.css");
+
+/* Navbar styles */
+@import url("navbar.css");
+
+/* Pieces styles */
+@import url("pieces.css");
+
+/* Sidebar styles */
+@import url("sidebar.css");
+
