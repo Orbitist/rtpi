@@ -1,5 +1,6 @@
 ---
 piece: image
+chapter: dunkirk-harbor
 published: true
 title: Birds at the Harbor
 description: "Double-crested Cormorants moving around the harbor"

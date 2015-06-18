@@ -1,5 +1,6 @@
 ---
 piece: image
+chapter: dunkirk-harbor
 published: true
 title: The Harbor
 description: "Looking northeast from the pier"
