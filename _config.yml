@@ -15,10 +15,6 @@ author :
 production_url : orbitist.com/rtpi
 
 baseurl : http://orbitist.com/rtpi
-        
-analytics :
-  google : 
-    tracking_id : ''
 
 
 authors:
