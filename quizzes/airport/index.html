@@ -118,8 +118,8 @@ $(document).ready(
                          content  += '</h4>';
                          content +=  data[i].map_body;
                          content +=  '</div>';
-                         cartodbkey =  data[i].map_cartodb;
-                         basemapurl =  data[i].map_tiles;
+                         cartodbkey =  'https://rtpi.carto.com/api/v2/viz/8cee7290-0d46-11e6-b90f-0ecfd53eb7d3/viz.json';
+                         basemapurl =  'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png';
                          custombasemapurl = data[i].map_custom_tiles;
                          customcss = data[i].map_css;
                          googleanalytics = data[i].map_google_analytics;
